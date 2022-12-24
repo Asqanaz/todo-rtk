@@ -1,2 +1,3 @@
-npm run dev - run project \n
+npm run dev - run project
+
 npm run server - run server
